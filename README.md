@@ -10,7 +10,7 @@ This is pytorch implementation of Multimodal Entailment baseline code which was 
 
 - [Recognizing Multimodal Entailment](https://multimodal-entailment.github.io/): Tutorial presented at `ACL 2021`
 
-![image](https://github.com/yookyungkho/Multimodal-Entailment-pytorch/blob/main/images/multimodal.png)
+![image](https://github.com/yookyungkho/Multimodal-Entailment-pytorch/blob/main/imgs/multimodal.png)
 
 ---
 
