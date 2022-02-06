@@ -1,0 +1,17 @@
+python src/train.py --dir_checkpoint "./best_model"\
+                    --file_name "exp1"\
+                    --wandb_project_name "Multimodal Entailment"\
+                    --wandb_entity_name "yookyungkho"\
+                    --img_size 128\
+                    --text_model_name "bert-base-uncased"\
+                    --is_text_trainable False\
+                    --is_img_trainable False\
+                    --project_dim 256\
+                    --num_projection_layers 2\
+                    --text_hidden_dim 768\
+                    --img_hidden_dim 4096\
+                    --dropout_rate 0.2\
+                    --num_epochs 5\
+                    --learning_rate 0.001\
+                    --batch_size 32\
+                    --seed_num 0
