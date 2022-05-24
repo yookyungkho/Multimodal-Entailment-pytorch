@@ -1,8 +1,8 @@
 # Multimodal-Entailment-pytorch
 
-This is pytorch implementation of Multimodal Entailment baseline code which was originally implemented with keras.
+This is pytorch implementation of Multimodal Entailment baseline code which was originally implemented with keras.([Original Keras Code](https://keras.io/examples/nlp/multimodal_entailment/))
 
-[Original Keras Code](https://keras.io/examples/nlp/multimodal_entailment/)
+- presented in [keras2torch study](https://github.com/yookyungkho/keras2torch)
 
 ---
 
